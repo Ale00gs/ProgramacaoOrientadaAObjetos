@@ -18,6 +18,20 @@
 
 <p align="center"> Aqui estão alguns exercícios que eu fiz para a fixação do conteúdo de POO, </br> no 4º termo de Análise e Desenvolvimento de Sistemas.</p>
 
+### 1º Construtor
+
+### 2º Agregação
+
+### 3º Composição
+
+### 4º Herança
+
+### 5º Classe abstrata
+
+### 6º Interface
+
+</br>
+
 ## Contato
 
 - E-mail: [Meu Email](mailto:agonsalvessissa@gmail.com)
